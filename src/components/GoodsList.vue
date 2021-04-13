@@ -109,7 +109,7 @@ export default {
 
 <style lang="less" scoped>
 .goods-list-wrap {
-  width: calc(100vw - 79px);
+  width: 296px;
   position: fixed;
   top: 135px;
   bottom: 50px;

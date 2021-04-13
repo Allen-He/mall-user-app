@@ -184,7 +184,6 @@ export default {
     display: flex;
     flex-wrap: wrap;
     align-content: center;
-    font-size: 6px; //★
     .img-box {
       width: 46px;
       height: 46px;
